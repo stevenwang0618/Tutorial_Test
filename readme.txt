@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 Edit in a branch.
+Using magit package in emacs.
