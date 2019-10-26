@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Edit in a branch.
 Using magit package in emacs.
 Using magit commit extend ce.
+test gpg.
