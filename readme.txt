@@ -8,3 +8,4 @@ Using magit package in emacs.
 Using magit commit extend ce.
 test gpg.
 add a new line
+creating a new branch
