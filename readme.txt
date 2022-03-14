@@ -9,4 +9,4 @@ Using magit commit extend ce.
 test gpg.
 add a new line
 creating a new branch
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
