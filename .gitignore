@@ -1,0 +1,9 @@
+# Ignore all output files
+*.out
+*.o
+*.obj
+*.log
+*.tmp
+*.exe
+# Ignore .vscode folder
+.vscode/
